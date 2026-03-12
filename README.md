@@ -7,4 +7,5 @@ This website have mainly some perpose, just like a exploring the website, make a
 you can also explore our website....
 
 
-Tout & Travels : <a href="https://smiitpatell.github.io/Tour-and-Travels-Website/">Click me....!!</a>    
+Tout & Travels : <a href="https://smiitpatell.github.io/Tour-and-Travels-Website/" target="_blank">Click me....!!</a>    
+
